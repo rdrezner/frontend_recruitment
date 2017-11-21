@@ -25,7 +25,7 @@ Pamiętaj, że przekazując parametry do API musisz je zakodować, czyli np. dla
     https://gwo.pl/booksApi/v1/search?query=j%C4%99zyk%20polski
 
 Będziemy przyznawać punkty za:
-1. Poprawną strukturę HTML 5, CSS i JavaScript, formatowanie kodu.
-2. Użycie SASS, Bootstrap, Block Element Modifier.
-3. Estetykę i ergonomię strony, responsywność: na szerokich ekranach można zmieścić kilka książek obok siebie.
-4. Wykorzystanie dodatkowych narzędzi: Gulp, Webpack itp.
+1. Poprawną strukturę HTML 5, CSS i JavaScript/Typescript, formatowanie kodu.
+2. Użycie Angular 2+ / Ember / React.
+3. Użycie Ngrx / Redux.
+4. Testy.
