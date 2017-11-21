@@ -1,5 +1,5 @@
-Zadanie rekrutacyjne frontend
-=============================
+Zadanie rekrutacyjne dla programisty aplikacji JavaScript
+=========================================================
 
 Utwórz stronę z formularzem, który posłuży do wyszukiwania podręczników szkolnych w księgarni Gdańskiego Wydawnictwa Oświatowego.
 Formularz powinien zawierać jedno pole tekstowe do wpisania hasła i przycisk submit.
